@@ -37,7 +37,7 @@ class App extends React.Component{
      })
    }
          
-  //lifecycle method that changes state for 
+  //lifecycle method that changes state
   componentDidMount(){
     setTimeout(() => {
         this.setState({
